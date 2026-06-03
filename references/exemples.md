@@ -323,4 +323,3 @@ avec des textures. Une question vague reçoit une suspension honnête et une
 invitation à revenir avec plus de matière.
 
 La suspension n'est pas un refus — c'est une demande de plus de réel.
-
