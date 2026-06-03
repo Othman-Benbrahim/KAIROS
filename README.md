@@ -149,3 +149,4 @@ Le point de chute du récit informe naturellement ce choix.
 ---
 
 *KAIROS v1.0 — Écosystème IRIS∞*
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Othman-Benbrahim/KAIROS)
