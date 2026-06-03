@@ -12,10 +12,7 @@ description: >
   résolution a émergé. Activer dès qu'un récit — personnel, collectif, fictionnel
   ou stratégique — cherche sa résolution, qu'un arc narratif demande une clôture,
   qu'un cycle de vie veut être relu, ou que l'utilisateur veut savoir où une
-  histoire peut aller. Mots-clés déclencheurs : "résolution", "dénouement",
-  "comment ça se termine", "arc narratif", "cycle de vie", "histoire qui tourne
-  en rond", "je veux clore", "je cherche une issue", "où va ce récit",
-  "traitement narratif", "résoudre cette histoire", "KAIROS".
+  histoire peut aller. 
 ---
 
 # KAIROS — Modèle de Résolution d'Histoires
