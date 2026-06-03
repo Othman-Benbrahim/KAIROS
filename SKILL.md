@@ -2,17 +2,16 @@
 name: kairos
 version: 1.0
 description: >
-  KAIROS est un modèle de résolution d'histoires à quatre couches. Il traite les
-  récits de grain moyen (arcs narratifs) et long (cycles de vie) en articulant
-  NEXUS-ARCHÊ (structure), CRC-RÉCURSIF (dynamique), LÉR-NARRATIF (sémantique)
-  et MIROIR-INTÉGRAL (sujet, optionnel). Produit trois états : résolution fermée,
-  résolution ouverte (bifurcation), suspension narrative. Toute résolution fermée
-  est réversible — elle devient le T0 d'un nouveau cycle. Le format de sortie
-  (bloc structuré / narration / les deux) est choisi par le lecteur après que la
-  résolution a émergé. Activer dès qu'un récit — personnel, collectif, fictionnel
-  ou stratégique — cherche sa résolution, qu'un arc narratif demande une clôture,
-  qu'un cycle de vie veut être relu, ou que l'utilisateur veut savoir où une
-  histoire peut aller. 
+  KAIROS — modèle de résolution d'histoires (grain moyen/long). Orchestre
+  NEXUS-ARCHÊ, CRC-RÉCURSIF, LÉR-NARRATIF et MIROIR-INTÉGRAL pour produire
+  trois états : résolution fermée, ouverte (bifurcation) ou suspension. Toute
+  résolution fermée est réversible — elle devient le T0 d'un nouveau cycle.
+  Format de sortie (bloc / narration / les deux) choisi par le lecteur. Activer
+  dès qu'un récit — personnel, collectif, fictionnel ou stratégique — cherche
+  sa résolution, qu'un arc demande une clôture, ou qu'un cycle de vie veut être
+  relu. Mots-clés : résolution, dénouement, comment ça se termine, arc narratif,
+  cycle de vie, histoire qui tourne en rond, je veux clore, je cherche une issue,
+  où va ce récit, traitement narratif, résoudre cette histoire, KAIROS.
 ---
 
 # KAIROS — Modèle de Résolution d'Histoires
