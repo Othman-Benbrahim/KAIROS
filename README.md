@@ -144,4 +144,8 @@ Le point de chute du récit informe naturellement ce choix.
 
 ---
 
+> *KAIROS est un outil d'écosystème. Il requiert les skills NEXUS-ARCHÊ, LÉR-NARRATIF et CRC-RÉCURSIF. Pour des récits courts ou un usage standalone, il n'est pas le bon outil.*
+
+---
+
 *KAIROS v1.0 — Écosystème IRIS∞*
